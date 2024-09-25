@@ -21,11 +21,24 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 ## 📫 How to reach me ...  
 - Email: nayaksaswatranjan202@gmail.com    
 - LinkedIn: [saswat13](https://www.linkedin.com/in/saswat13/)
-## 📈 Skills  
-- **Languages**: JavaScript, Python, HTML, CSS   
-- **Tools & Technologies**: Git, , AWS, SQL  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Tableau  
 
+## 📈 Skills  
+- 💻 **Languages**:  
+  - 🟨 JavaScript  
+  - 🐍 Python  
+  - 🌐 HTML  
+  - 🎨 CSS  
+  
+- 🛠️ **Tools & Technologies**:  
+  - 🗂️ Git  
+  - ☁️ AWS  
+  - 🛢️ SQL  
+  
+- 📊 **Data Analysis**:  
+  - 🐼 Pandas  
+  - 🔢 NumPy  
+  - 📈 Matplotlib  
+  - 📊 Tableau 
 ## 😄 Pronouns: ...  
 - He/Him  
 
